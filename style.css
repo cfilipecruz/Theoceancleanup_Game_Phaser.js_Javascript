@@ -1,0 +1,10 @@
+@font-face {
+    font-family: NerkoOff;
+    src: url('assets/fonts/NerkoOne.ttf');
+}
+
+html, body{
+    margin:0;
+    margin-top: 5px;
+    padding: 0;
+}
